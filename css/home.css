@@ -1,0 +1,17 @@
+#Infografico {
+  position: relative;
+  overflow-x: hidden;
+  top: 0;
+  left: 0;
+}
+
+.col-md-6.showContent .getting-started-info p {
+  height: 400px!important;
+}
+
+.btn-outline-primary:hover {
+  color: #ffffff;
+  background-color: #42dca3;
+  border-color: #42dca3;
+}
+

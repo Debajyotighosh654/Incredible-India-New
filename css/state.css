@@ -1,0 +1,13 @@
+body {
+  font-family: Lora,Helvetica Neue,Helvetica,Arial,sans-serif;
+  position: relative;
+  color: #000000;
+  background-color: #ffffff;
+  overflow-x: hidden;
+}
+
+.container.mt-5 {
+  position: relative;
+  top: 10%;
+}
+
